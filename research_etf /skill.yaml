@@ -1,0 +1,14 @@
+name: research_etf
+
+description: Research ETF or stock performance using historical data.
+
+tools:
+  - python-runner
+
+usage: |
+  research VXUS
+  research VTI
+  research AAPL
+
+execution:
+  run: python-runner research.py
