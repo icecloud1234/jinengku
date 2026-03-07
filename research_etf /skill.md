@@ -24,3 +24,7 @@ research VXUS
 research VTI
 
 research AAPL
+
+## Execution
+
+Use python-runner to execute research.py
